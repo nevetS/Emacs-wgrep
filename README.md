@@ -1,5 +1,11 @@
 # wgrep.el
 
+NOTE:  This is a fork
+of [mhayashi1120's wgrep](https://github.com/mhayashi1120/Emacs-wgrep).  There
+are no code updates.  The only difference is this readme and that the current
+commmit (as of May 2018) is tagged as a release. (2.1.10s)
+
+
 wgrep allows you to edit a grep buffer and apply those changes to
 the file buffer.
 
